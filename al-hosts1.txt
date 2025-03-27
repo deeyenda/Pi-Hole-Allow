@@ -2,4 +2,18 @@
 # Pi-hole Allow lists
 # update 2025 03 17
 
-d
+ipluszone.com
+googleapis.com
+linenotify.com
+notify-api.line.me
+ssl.google-analytics.com
+teamos.xyz
+scdn.co
+spotify.com
+2c2p.com
+headdaddy.com
+tuya.com
+tuyaus.com
+proxy.siambit.me
+tracker.cab
+cdn-apple.com
